@@ -1,9 +1,10 @@
 # PowerBI_Project_1_Ecommerce_Sales_Dashboard
 
+ 🚀 Just published an eCommerce Power BI Dashboard!
  📊 This dashboard highlights real-time KPIs, product performance, and regional insights.
  💡 Used slicers, cards, clustered charts, and more to enable interactive decision-making.
  👩‍💻 Designed to help teams track performance and boost sales strategies effectively.
-🚀 Just published an eCommerce Power BI Dashboard!
+
   * It uncovers deep insights from 1,500+ product orders including:
   * Sales & profit performance by region and category
   * Top customers and payment method trends
